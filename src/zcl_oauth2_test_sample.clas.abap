@@ -16,5 +16,6 @@ CLASS ZCL_OAUTH2_TEST_SAMPLE IMPLEMENTATION.
 
 
   method TEST1.
+    check 1 = 1.
   endmethod.
 ENDCLASS.
